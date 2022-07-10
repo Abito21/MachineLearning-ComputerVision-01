@@ -17,6 +17,7 @@ https://dicodingacademy.blob.core.windows.net/picodiploma/ml_pemula_academy/rock
 ## •	Data Modelling
 
 Membuat model machine learning menggunakan framework tensorflow yang akan digunakan untuk melakukan pelatihan dataset
+
 ![image](https://user-images.githubusercontent.com/67644383/178147158-8ebe4c78-6fdf-4ee0-8822-80a88951471a.png)
 
 ## •	Metrik Akurasi
